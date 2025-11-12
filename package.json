@@ -1,0 +1,28 @@
+{
+  "name": "logica-programacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeisonQA/logica-Programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GeisonQA/logica-Programacao/issues"
+  },
+  "homepage": "https://github.com/GeisonQA/logica-Programacao#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^11.7.5"
+  }
+}
