@@ -1,4 +1,4 @@
-export function somarDoisNumeros(valor1, valor2) {
+function somarDoisNumeros(valor1, valor2) {
     const resultado = valor1 + valor2;
     return resultado;
 }
@@ -9,3 +9,6 @@ function calcularSomaDeDoisNumeros(valor1, valor2) {
     return resultadoDaMediaDeDoisNumeros
 }
 
+module.exports = {
+    somarDoisNumeros
+}
